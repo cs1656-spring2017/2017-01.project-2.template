@@ -20,7 +20,7 @@ The goal of this assignment is for you to gain familiarity with association rule
 In this assignment you are asked to implement a simplified version of the A-Priori association rule mining algorithm, in Python.
 You should name your program `apriori.py`. It should be called as follows:
 
-`python apriori.py input_filename output_filename min_support_percentage min_confidence`
+`python3 apriori.py input_filename output_filename min_support_percentage min_confidence`
 
 where:
 * `input_filename` is the name of the file that contains market basket data that is the input to your program. The format for the input file is provided below. A sample file `input.txt` is provided together with this repository.  
