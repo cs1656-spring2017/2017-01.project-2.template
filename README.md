@@ -5,7 +5,7 @@
 > Instructor: [Alexandros Labrinidis](http://labrinidis.cs.pitt.edu)  
 > 
 > Assignment: #2  
-> Released: February 15, 2017     
+> Released: February 15, 2017   
 > **Due:      March 3, 2017**  
 
 ### Description
